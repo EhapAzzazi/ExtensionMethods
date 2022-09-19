@@ -1,0 +1,15 @@
+D:\New Course\Methods\bin\Debug\net5.0\ExtensionMethods.exe
+D:\New Course\Methods\bin\Debug\net5.0\ExtensionMethods.deps.json
+D:\New Course\Methods\bin\Debug\net5.0\ExtensionMethods.runtimeconfig.json
+D:\New Course\Methods\bin\Debug\net5.0\ExtensionMethods.runtimeconfig.dev.json
+D:\New Course\Methods\bin\Debug\net5.0\ExtensionMethods.dll
+D:\New Course\Methods\bin\Debug\net5.0\ref\ExtensionMethods.dll
+D:\New Course\Methods\bin\Debug\net5.0\ExtensionMethods.pdb
+D:\New Course\Methods\obj\Debug\net5.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Course\Methods\obj\Debug\net5.0\ExtensionMethods.AssemblyInfoInputs.cache
+D:\New Course\Methods\obj\Debug\net5.0\ExtensionMethods.AssemblyInfo.cs
+D:\New Course\Methods\obj\Debug\net5.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\New Course\Methods\obj\Debug\net5.0\ExtensionMethods.dll
+D:\New Course\Methods\obj\Debug\net5.0\ref\ExtensionMethods.dll
+D:\New Course\Methods\obj\Debug\net5.0\ExtensionMethods.pdb
+D:\New Course\Methods\obj\Debug\net5.0\ExtensionMethods.genruntimeconfig.cache

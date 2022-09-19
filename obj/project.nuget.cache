@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "b0Q4VLlPDKBfpJnvW+92UPHq17xTlNpB9+Ay3SN1KwdLZw57fP47G9Nfp+Dw7R0U/t0ZGviWFeywnb5vucpMNw==",
+  "success": true,
+  "projectFilePath": "D:\\New Course\\Methods\\ExtensionMethods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\عزازي\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\عزازي\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\عزازي\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\عزازي\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
